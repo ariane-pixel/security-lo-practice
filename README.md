@@ -1,1 +1,1 @@
-# security-lo-practice
+# security-log-practice
